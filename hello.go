@@ -2,7 +2,7 @@ package helloWord
 
 import "fmt"
 
-func imprimirHola() {
+func ImprimirHola() {
 	defer fmt.Println("Mundo")
 	fmt.Println("Hola")
 }
